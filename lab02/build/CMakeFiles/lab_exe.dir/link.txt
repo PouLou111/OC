@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/lab_exe.dir/main.cpp.o CMakeFiles/lab_exe.dir/src.cpp.o -o lab_exe 
